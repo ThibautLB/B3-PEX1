@@ -1,2 +1,2 @@
 #!/bin/bash
-echo “Coucou $NAME!
+echo “Coucou $NAME!”
